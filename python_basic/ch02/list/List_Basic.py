@@ -1,0 +1,5 @@
+a = []
+b = [1, 2, 3]
+c = ['lif', 'is', 'too', 'short']
+d = [1, 2, 'life', 'is']
+e = [1, 2, ['life', 'is']]
